@@ -18,7 +18,7 @@ Whether you’re here to build, explore, or conquer, this SMP is designed to bri
 
 ## 🚀 Getting Started
 1. **Install Mods**  
-   - Download the modpack from our official link (coming soon).  
+   - Download the modpack from our official link [Download the latest Modpack](https://drive.google.com/file/d/1XGYk44cWOwyfBMY6GZru6IMkRkLX_tnQ/view?usp=sharing).  
    - Make sure you’re running the 1.21.1 version of Minecraft and 21.1.233 NeoForge.
 
 2. **Join the Server**  
