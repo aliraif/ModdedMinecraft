@@ -16,11 +16,10 @@ Whether you’re here to build, explore, or conquer, this SMP is designed to bri
 ## 🚀 Getting Started
 1. **Install Mods**  
    - Download the modpack from our official link (coming soon).  
-   - Make sure you’re running the latest version of Minecraft Forge.
+   - Make sure you’re running the 1.21.1 version of Minecraft and 21.1.233 NeoForge.
 
 2. **Join the Server**  
-   - IP: `play.summerica.net`  
-   - Whitelisted community — apply through our Discord.
+   - IP: `139.99.4.216:26083`  
 
 3. **Have Fun!**  
    - Respect the rules.  
