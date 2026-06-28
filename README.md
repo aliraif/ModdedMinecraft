@@ -3,8 +3,8 @@
 Welcome to **SUMMERICA Modded SMP** — a vibrant, community-driven Minecraft experience packed with mods, creativity, and endless adventures!  
 Whether you’re here to build, explore, or conquer, this SMP is designed to bring summer vibes and modded chaos together.
 
-- [Download the latest Modpack](https://drive.google.com/file/d/1lkYFYqHpsFfvCDIaFx7In831BhErIySq/view?usp=sharing) <-- CLICK THIS FOR ALL OF THE MODPACK
-- [Download only new update file](https://drive.google.com/file/d/1Futs3bTWGn9amHQo72eD-fsJtHvaP25b/view?usp=sharing) <-- CLICK THIS IF YOU WANNA UPDATE 
+- [Download the latest Modpack](https://drive.google.com/file/d/1pMOeYxsIsRwFdB9YHKH5o2kY1WMfmL_L/view?usp=sharing) <-- CLICK THIS FOR ALL OF THE MODPACK
+- [Download only new update file](https://drive.google.com/file/d/1aTZs5RNFLZaK4ZohWNFtUe79PsQ1421O/view?usp=sharing) <-- CLICK THIS IF YOU WANNA UPDATE 
 
 ---
 
