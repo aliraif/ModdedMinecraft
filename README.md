@@ -1,25 +1,17 @@
-# 🌞 SUMMERICA Modded SMP
+# 🌞 RLCraft Modded SMP
 
-Welcome to **SUMMERICA Modded SMP** — a vibrant, community-driven Minecraft experience packed with mods, creativity, and endless adventures!  
+Welcome to **RLCraft Modded SMP** — a vibrant, community-driven Minecraft experience packed with mods, creativity, and endless adventures!  
 Whether you’re here to build, explore, or conquer, this SMP is designed to bring summer vibes and modded chaos together.
 
-- [Download the latest Modpack](https://drive.google.com/file/d/1pMOeYxsIsRwFdB9YHKH5o2kY1WMfmL_L/view?usp=sharing) <-- CLICK THIS FOR ALL OF THE MODPACK
-- [Download only new update file](https://drive.google.com/file/d/1aTZs5RNFLZaK4ZohWNFtUe79PsQ1421O/view?usp=sharing) <-- CLICK THIS IF YOU WANNA UPDATE 
-
----
-
-## ✨ Features
-- 🛠️ **Modded Gameplay**: A curated set of mods for exploration, building, and combat.
-- 🌍 **Community World**: Collaborate with friends, create towns, and shape the server’s story.
-- 🔥 **Seasonal Events**: Special challenges and events to keep the SMP fresh.
-- 🎨 **Unique Aesthetic**: Summer-themed builds, landscapes, and vibes.
+- [Download the latest Modpack](https://drive.google.com/file/d/1QasiWhhEqV0Z4dbelVkq6xMfFMVku9fJ/view?usp=sharing) <-- CLICK THIS FOR ALL OF THE MODPACK
+- [Download only new update file]() <-- CLICK THIS IF YOU WANNA UPDATE 
 
 ---
 
 ## 🚀 Getting Started
 1. **Install Mods**  
-   - Download the modpack from our official link [Download the latest Modpack](https://drive.google.com/file/d/1XGYk44cWOwyfBMY6GZru6IMkRkLX_tnQ/view?usp=sharing).  
-   - Make sure you’re running the 1.21.1 version of Minecraft and 21.1.233 NeoForge.
+   - Download the modpack from our official link [Download the latest Modpack](https://drive.google.com/file/d/1QasiWhhEqV0Z4dbelVkq6xMfFMVku9fJ/view?usp=sharing).  
+   - Make sure you’re running Minecraft v1.12.1 and version **14.23.5.2860 Forge**. <span style="color:red">**IMPORTANT AF**</span>
 
 2. **Join the Server**  
    - IP: `139.99.4.216:26083`  
