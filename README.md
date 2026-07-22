@@ -1,10 +1,10 @@
 # RLCraft Modded SMP
 
 Welcome to **RLCraft Modded SMP** — a vibrant, community-driven Minecraft experience packed with mods, creativity, and endless adventures!  
-Whether you’re here to build, explore, or conquer, this SMP is designed to bring summer vibes and modded chaos together.
+Whether you’re here to build, explore, or conquer, this SMP is designed to bring summer vibes and modded chaos together. **FEK DESC**
 
-- [Download the latest Modpack](https://drive.google.com/file/d/1QasiWhhEqV0Z4dbelVkq6xMfFMVku9fJ/view?usp=sharing) <-- CLICK THIS FOR ALL OF THE MODPACK
-- [Download only new update file]() <-- CLICK THIS IF YOU WANNA UPDATE 
+- [Download the latest Modpack](https://drive.google.com/file/d/1QasiWhhEqV0Z4dbelVkq6xMfFMVku9fJ/view?usp=sharing) **<-- CLICK THIS FOR ALL OF THE MODPACK**
+- [Download only new update file]() **<-- CLICK THIS IF YOU WANNA UPDATE** 
 
 ---
 
@@ -14,7 +14,7 @@ Whether you’re here to build, explore, or conquer, this SMP is designed to bri
    - Make sure you’re running Minecraft v1.12.1 and version **14.23.5.2860 Forge**. **<----- IMPORTANT AF**
 
 2. **Join the Server**  
-   - IP: `139.99.4.216:26083`  
+   - IP: `beauty-hazard.gl.joinmc.link`  **<----- NI IP ADDRESS**
 
 3. **Have Fun!**  
    - Respect the rules.  
