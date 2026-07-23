@@ -12,7 +12,7 @@ Whether you’re here to build, explore, or conquer, this SMP is designed to bri
 ## 🚀 Getting Started
 1. **Install Mods**  
    - Download the modpack from our official link [Download the latest Modpack](https://www.curseforge.com/minecraft/share/VNEUiQ0z).  
-   - ⚠️ **IMPORTANT AF**: Make sure you’re running Minecraft v1.12.1 and version **14.23.5.2860 Forge** 🚨 **[IMPORTANT AF]**
+   - ⚠️ **IMPORTANT AF**: Make sure you’re running Minecraft v1.12.2 and version **14.23.5.2860 Forge** 🚨 **[IMPORTANT AF]**
    - DAH DOWNLOAD MOD TU **PASTE** DALAM `C:\Users\(nama)\AppData\Roaming\.minecraft` AND **EXTRACT**
 
 2. **Join the Server**  
