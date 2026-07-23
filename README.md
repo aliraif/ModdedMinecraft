@@ -4,7 +4,8 @@ Welcome to 🚀 **RLCraft Modded SMP** — a vibrant, community-driven Minecraft
 Whether you’re here to build, explore, or conquer, this SMP is designed to bring summer vibes and modded chaos together. 🔥 **FEK DESC**
 
 **DOWNLOAD CURSEFORGE**
-- [Download the latest Modpack](https://www.curseforge.com/minecraft/share/VNEUiQ0z) ✅ **<-- CLICK THIS FOR ALL OF THE MODPACK**
+- [Download the latest Modpack(curseforge)](https://www.curseforge.com/minecraft/share/VNEUiQ0z) ✅ **<-- CLICK THIS FOR ALL OF THE MODPACK**
+- [Download the latest Modpack(file.zip)](https://drive.google.com/file/d/1QasiWhhEqV0Z4dbelVkq6xMfFMVku9fJ/view?usp=sharing)
 - [Download only new update file]() 🔄 **<-- CLICK THIS IF YOU WANNA UPDATE** 
 
 ---
