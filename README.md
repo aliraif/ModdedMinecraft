@@ -16,7 +16,7 @@ Whether you’re here to build, explore, or conquer, this SMP is designed to bri
    - DAH DOWNLOAD MOD TU **PASTE** DALAM `C:\Users\(nama)\AppData\Roaming\.minecraft` AND **EXTRACT**
 
 2. **Join the Server**  
-   - 🌐 **IP**: `buty-hazard.gl.joinmc.link` 🔑 **<----- NI IP ADDRESS**
+   - 🌐 **IP**: `beauty-hazard.gl.joinmc.link` 🔑 **<----- NI IP ADDRESS**
 
 3. **Have Fun!**  
    - 🎯 Respect the rules.  
